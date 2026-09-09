@@ -7,7 +7,7 @@ A modern video editor built with Tauri, React, and TypeScript. Focus on building
 - **Latest release**: `v1.4.7` (2026-09-05)
 - **Last commit**: 2026-09-05
 - **License**: MIT
-- **Stars**: 3189 · **Forks**: 318 · **Open issues**: 47 · **Contributors**: 7
+- **Stars**: 3191 · **Forks**: 319 · **Open issues**: 47 · **Contributors**: 7
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/Clypra> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T06:12:30Z._
+_Last regenerated: 2026-09-09T20:24:57Z._
