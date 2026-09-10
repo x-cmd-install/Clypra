@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 43551962,
       "digest": "sha256:7c35d73c2eb98c56db3d7738817a202c2a773e572b761f5b681b804793c13bae",
-      "download_count": 29,
+      "download_count": 31,
       "created_at": "2026-09-05T16:28:22Z",
       "updated_at": "2026-09-05T16:28:24Z",
       "browser_download_url": "https://github.com/AIEraDev/Clypra/releases/download/v1.4.7/Clypra-1.4.7-1.x86_64.rpm"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 38919063,
       "digest": "sha256:96858896f6708de3428d637e530ba56dd4cd7a9d32d0748c8b0ec0946555c5e1",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-09-05T16:05:55Z",
       "updated_at": "2026-09-05T16:05:57Z",
       "browser_download_url": "https://github.com/AIEraDev/Clypra/releases/download/v1.4.7/Clypra_1.4.7_aarch64.app.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 38449720,
       "digest": "sha256:cd7a9ba047a3ba3f7a042006cb8901ce29a0ffcb3e2710c0880ca62aa280c4a8",
-      "download_count": 39,
+      "download_count": 44,
       "created_at": "2026-09-05T16:05:52Z",
       "updated_at": "2026-09-05T16:05:54Z",
       "browser_download_url": "https://github.com/AIEraDev/Clypra/releases/download/v1.4.7/Clypra_1.4.7_aarch64.dmg"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 117172728,
       "digest": "sha256:3197328fcbdb55160679d9e9ab0424a90572eecec6600cccca8bf2241ce26d5f",
-      "download_count": 37,
+      "download_count": 41,
       "created_at": "2026-09-05T16:28:24Z",
       "updated_at": "2026-09-05T16:28:27Z",
       "browser_download_url": "https://github.com/AIEraDev/Clypra/releases/download/v1.4.7/Clypra_1.4.7_amd64.AppImage"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 412,
       "digest": "sha256:7cb643f509592a072f22a4a972497299536fb866379753dd88726efff196d28f",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-09-05T16:28:22Z",
       "updated_at": "2026-09-05T16:28:22Z",
       "browser_download_url": "https://github.com/AIEraDev/Clypra/releases/download/v1.4.7/Clypra_1.4.7_amd64.deb.sig"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 30421681,
       "digest": "sha256:c9f26c4f68dbcf6879c433ede95e831ba86598ffe04998e4a8714155c27a21a8",
-      "download_count": 123,
+      "download_count": 146,
       "created_at": "2026-09-05T16:42:39Z",
       "updated_at": "2026-09-05T16:42:40Z",
       "browser_download_url": "https://github.com/AIEraDev/Clypra/releases/download/v1.4.7/Clypra_1.4.7_x64-setup.exe"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 47534080,
       "digest": "sha256:207a6842b0d18eec9eacfd54a1cf688de7a2c2fb8ab5fffcae07aadc86597f8c",
-      "download_count": 110,
+      "download_count": 129,
       "created_at": "2026-09-05T16:42:36Z",
       "updated_at": "2026-09-05T16:42:38Z",
       "browser_download_url": "https://github.com/AIEraDev/Clypra/releases/download/v1.4.7/Clypra_1.4.7_x64_en-US.msi"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 5337,
       "digest": "sha256:6effa64b1ccbd856dd329ef4211517fb80a27c76d052cb7b320ca1a593713a9f",
-      "download_count": 425,
+      "download_count": 485,
       "created_at": "2026-09-05T16:42:52Z",
       "updated_at": "2026-09-05T16:42:52Z",
       "browser_download_url": "https://github.com/AIEraDev/Clypra/releases/download/v1.4.7/latest.json"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 5337,
       "digest": "sha256:6effa64b1ccbd856dd329ef4211517fb80a27c76d052cb7b320ca1a593713a9f",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2026-09-05T16:42:52Z",
       "updated_at": "2026-09-05T16:42:52Z",
       "browser_download_url": "https://github.com/AIEraDev/Clypra/releases/download/v1.4.7/updater.json"
