@@ -14,14 +14,14 @@ x install Clypra
 
 ## 代码洞察
 
-合计: **216,369** 行代码（覆盖前 5 种语言、共 **974** 个文件）。
+合计: **219,774** 行代码（覆盖前 5 种语言、共 **986** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 110,866 | 15,461 | 17,323 | 680 |
-| Tsx | 43,507 | 2,201 | 4,439 | 169 |
-| Rust | 41,253 | 1,537 | 4,632 | 107 |
-| Json | 11,460 | 0 | 4 | 16 |
+| TypeScript | 111,784 | 15,506 | 17,426 | 684 |
+| Tsx | 44,620 | 2,203 | 4,506 | 175 |
+| Rust | 42,459 | 1,674 | 4,766 | 109 |
+| Json | 11,457 | 0 | 4 | 16 |
 | Yaml | 6,087 | 0 | 1,507 | 2 |
 
 ## 源代码
@@ -32,44 +32,43 @@ x install Clypra
 
 ## 发布
 
-- **最新版本**: `v1.4.8` (2026-09-10)
-- **最近提交**: 2026-09-10
-- **Release 含资产**: 11 个
+- **最新版本**: `v1.5.0` (2026-09-11)
+- **最近提交**: 2026-09-12
+- **Release 含资产**: 10 个
 
 ## 流行度
 
-- **Star**: 3,194 · **Fork**: 319 · **开放 issue**: 47 · **贡献者**: 7
+- **Star**: 3,195 · **Fork**: 319 · **开放 issue**: 47 · **贡献者**: 7
 
 ## 累计统计
 
-- **发布数**: 17 · **已合并 PR**: 237 · **开放 PR**: 4 · **已关闭 issue**: 31 · **开放 issue**: 16 · **提交数**: 3087
+- **发布数**: 18 · **已合并 PR**: 240 · **开放 PR**: 4 · **已关闭 issue**: 31 · **开放 issue**: 16 · **提交数**: 3104
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 10 | 79 | 1 | 0 | 2 | 1708 |
-| last60d | 2026-07-13 | 14 | 119 | 2 | 2 | 4 | 1924 |
-| 90d | 2026-06-13 | 16 | 195 | 3 | 2 | 6 | 2393 |
-| last180d | 2026-03-15 | 17 | 237 | 4 | 31 | 16 | 2844 |
-| 360d | 2025-09-16 | 17 | 237 | 4 | 31 | 16 | 2844 |
-| last720d | 2024-09-21 | 17 | 237 | 4 | 31 | 16 | 3087 |
+| 30d | 2026-08-13 | 11 | 82 | 1 | 0 | 2 | 1722 |
+| last60d | 2026-07-14 | 13 | 122 | 2 | 2 | 4 | 1938 |
+| 90d | 2026-06-14 | 17 | 197 | 3 | 2 | 6 | 2407 |
+| last180d | 2026-03-16 | 18 | 240 | 4 | 31 | 16 | 2858 |
+| 360d | 2025-09-17 | 18 | 240 | 4 | 31 | 16 | 2858 |
+| last720d | 2024-09-22 | 18 | 240 | 4 | 31 | 16 | 3104 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [Clypra-1.4.8-1.x86_64.rpm](https://github.com/AIEraDev/Clypra/releases/download/v1.4.8/Clypra-1.4.8-1.x86_64.rpm) | 43.2 MiB | `runtime/rpm/x86_64` |
-| [Clypra-1.4.8-1.x86_64.rpm.sig](https://github.com/AIEraDev/Clypra/releases/download/v1.4.8/Clypra-1.4.8-1.x86_64.rpm.sig) | 416 B | `other` |
-| [Clypra_1.4.8_amd64.AppImage](https://github.com/AIEraDev/Clypra/releases/download/v1.4.8/Clypra_1.4.8_amd64.AppImage) | 113.2 MiB | `other` |
-| [Clypra_1.4.8_amd64.AppImage.sig](https://github.com/AIEraDev/Clypra/releases/download/v1.4.8/Clypra_1.4.8_amd64.AppImage.sig) | 416 B | `other` |
-| [Clypra_1.4.8_amd64.deb](https://github.com/AIEraDev/Clypra/releases/download/v1.4.8/Clypra_1.4.8_amd64.deb) | 43.2 MiB | `runtime/deb/amd64` |
-| [Clypra_1.4.8_amd64.deb.sig](https://github.com/AIEraDev/Clypra/releases/download/v1.4.8/Clypra_1.4.8_amd64.deb.sig) | 412 B | `other` |
-| [Clypra_1.4.8_x64-setup.exe](https://github.com/AIEraDev/Clypra/releases/download/v1.4.8/Clypra_1.4.8_x64-setup.exe) | 30.0 MiB | `other` |
-| [Clypra_1.4.8_x64-setup.exe.sig](https://github.com/AIEraDev/Clypra/releases/download/v1.4.8/Clypra_1.4.8_x64-setup.exe.sig) | 416 B | `other` |
-| [Clypra_1.4.8_x64_en-US.msi](https://github.com/AIEraDev/Clypra/releases/download/v1.4.8/Clypra_1.4.8_x64_en-US.msi) | 46.8 MiB | `other` |
-| [Clypra_1.4.8_x64_en-US.msi.sig](https://github.com/AIEraDev/Clypra/releases/download/v1.4.8/Clypra_1.4.8_x64_en-US.msi.sig) | 416 B | `other` |
-| [latest.json](https://github.com/AIEraDev/Clypra/releases/download/v1.4.8/latest.json) | 4.0 KiB | `other` |
+| [Clypra-1.5.0-1.x86_64.rpm](https://github.com/AIEraDev/Clypra/releases/download/v1.5.0/Clypra-1.5.0-1.x86_64.rpm) | 42.8 MiB | `runtime/rpm/x86_64` |
+| [Clypra-1.5.0-1.x86_64.rpm.sig](https://github.com/AIEraDev/Clypra/releases/download/v1.5.0/Clypra-1.5.0-1.x86_64.rpm.sig) | 416 B | `other` |
+| [Clypra_1.5.0_aarch64.app.tar.gz](https://github.com/AIEraDev/Clypra/releases/download/v1.5.0/Clypra_1.5.0_aarch64.app.tar.gz) | 37.8 MiB | `native/linux/arm64` |
+| [Clypra_1.5.0_aarch64.app.tar.gz.sig](https://github.com/AIEraDev/Clypra/releases/download/v1.5.0/Clypra_1.5.0_aarch64.app.tar.gz.sig) | 404 B | `other` |
+| [Clypra_1.5.0_aarch64.dmg](https://github.com/AIEraDev/Clypra/releases/download/v1.5.0/Clypra_1.5.0_aarch64.dmg) | 37.3 MiB | `other` |
+| [Clypra_1.5.0_amd64.AppImage](https://github.com/AIEraDev/Clypra/releases/download/v1.5.0/Clypra_1.5.0_amd64.AppImage) | 110.8 MiB | `other` |
+| [Clypra_1.5.0_amd64.AppImage.sig](https://github.com/AIEraDev/Clypra/releases/download/v1.5.0/Clypra_1.5.0_amd64.AppImage.sig) | 416 B | `other` |
+| [Clypra_1.5.0_amd64.deb](https://github.com/AIEraDev/Clypra/releases/download/v1.5.0/Clypra_1.5.0_amd64.deb) | 42.8 MiB | `runtime/deb/amd64` |
+| [Clypra_1.5.0_amd64.deb.sig](https://github.com/AIEraDev/Clypra/releases/download/v1.5.0/Clypra_1.5.0_amd64.deb.sig) | 412 B | `other` |
+| [latest.json](https://github.com/AIEraDev/Clypra/releases/download/v1.5.0/latest.json) | 3.4 KiB | `other` |
 
 ## 改进这些数据
 
@@ -80,4 +79,4 @@ Clypra 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260911.yml` · 2026-09-11T18:56:38Z._
+_数据快照: `data/card/260912.yml` · 2026-09-12T05:57:20Z._
