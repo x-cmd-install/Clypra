@@ -14,14 +14,14 @@ x install Clypra
 
 ## Code insight
 
-Total: **237,514** lines of code across **1028** files in the top 5 languages.
+Total: **246,700** lines of code across **1056** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 118,923 | 15,963 | 18,158 | 707 |
-| Rust | 51,102 | 2,461 | 5,816 | 125 |
-| Tsx | 46,210 | 2,272 | 4,635 | 177 |
-| Json | 11,474 | 0 | 4 | 17 |
+| TypeScript | 124,622 | 16,423 | 18,642 | 727 |
+| Rust | 51,647 | 2,477 | 5,875 | 126 |
+| Tsx | 49,024 | 2,360 | 4,832 | 184 |
+| Json | 11,475 | 0 | 4 | 17 |
 | Yaml | 6,090 | 0 | 1,507 | 2 |
 
 ## Source
@@ -32,41 +32,48 @@ Total: **237,514** lines of code across **1028** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.5.1` (2026-09-19)
-- **Last commit**: 2026-09-20
-- **Assets in release**: 8
+- **Latest**: `v1.5.2` (2026-09-21)
+- **Last commit**: 2026-09-22
+- **Assets in release**: 15
 
 ## Popularity
 
-- **Stars**: 3,246 · **Forks**: 328 · **Open issues**: 48 · **Contributors**: 7
+- **Stars**: 3,261 · **Forks**: 327 · **Open issues**: 48 · **Contributors**: 7
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 285 · **Open PRs**: 4 · **Closed issues**: 32 · **Open issues**: 16 · **Commits**: 3214
+- **Releases**: 20 · **Merged PRs**: 297 · **Open PRs**: 4 · **Closed issues**: 32 · **Open issues**: 16 · **Commits**: 3239
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 11 | 87 | 1 | 1 | 0 | 907 |
-| last60d | 2026-07-23 | 14 | 163 | 1 | 2 | 4 | 1964 |
-| 90d | 2026-06-23 | 18 | 202 | 2 | 3 | 6 | 2252 |
-| last180d | 2026-03-25 | 19 | 285 | 4 | 32 | 16 | 2921 |
-| 360d | 2025-09-26 | 19 | 285 | 4 | 32 | 16 | 2921 |
-| last720d | 2024-10-01 | 19 | 285 | 4 | 32 | 16 | 3214 |
+| 30d | 2026-08-23 | 12 | 94 | 1 | 1 | 0 | 920 |
+| last60d | 2026-07-24 | 15 | 175 | 1 | 2 | 2 | 1977 |
+| 90d | 2026-06-24 | 19 | 213 | 2 | 3 | 6 | 2265 |
+| last180d | 2026-03-26 | 20 | 297 | 4 | 32 | 16 | 2934 |
+| 360d | 2025-09-27 | 20 | 297 | 4 | 32 | 16 | 2934 |
+| last720d | 2024-10-02 | 20 | 297 | 4 | 32 | 16 | 3239 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [Clypra_1.5.1_aarch64.app.tar.gz](https://github.com/AIEraDev/Clypra/releases/download/v1.5.1/Clypra_1.5.1_aarch64.app.tar.gz) | 77.3 MiB | `native/linux/arm64` |
-| [Clypra_1.5.1_aarch64.app.tar.gz.sig](https://github.com/AIEraDev/Clypra/releases/download/v1.5.1/Clypra_1.5.1_aarch64.app.tar.gz.sig) | 404 B | `other` |
-| [Clypra_1.5.1_aarch64.dmg](https://github.com/AIEraDev/Clypra/releases/download/v1.5.1/Clypra_1.5.1_aarch64.dmg) | 75.2 MiB | `other` |
-| [Clypra_1.5.1_x64-setup.exe](https://github.com/AIEraDev/Clypra/releases/download/v1.5.1/Clypra_1.5.1_x64-setup.exe) | 72.4 MiB | `other` |
-| [Clypra_1.5.1_x64-setup.exe.sig](https://github.com/AIEraDev/Clypra/releases/download/v1.5.1/Clypra_1.5.1_x64-setup.exe.sig) | 416 B | `other` |
-| [Clypra_1.5.1_x64_en-US.msi](https://github.com/AIEraDev/Clypra/releases/download/v1.5.1/Clypra_1.5.1_x64_en-US.msi) | 104.6 MiB | `other` |
-| [Clypra_1.5.1_x64_en-US.msi.sig](https://github.com/AIEraDev/Clypra/releases/download/v1.5.1/Clypra_1.5.1_x64_en-US.msi.sig) | 416 B | `other` |
-| [latest.json](https://github.com/AIEraDev/Clypra/releases/download/v1.5.1/latest.json) | 2.9 KiB | `other` |
+| [Clypra-1.5.2-1.x86_64.rpm](https://github.com/AIEraDev/Clypra/releases/download/v1.5.2/Clypra-1.5.2-1.x86_64.rpm) | 100.2 MiB | `runtime/rpm/x86_64` |
+| [Clypra-1.5.2-1.x86_64.rpm.sig](https://github.com/AIEraDev/Clypra/releases/download/v1.5.2/Clypra-1.5.2-1.x86_64.rpm.sig) | 416 B | `other` |
+| [Clypra_1.5.2_aarch64.app.tar.gz](https://github.com/AIEraDev/Clypra/releases/download/v1.5.2/Clypra_1.5.2_aarch64.app.tar.gz) | 77.4 MiB | `native/linux/arm64` |
+| [Clypra_1.5.2_aarch64.app.tar.gz.sig](https://github.com/AIEraDev/Clypra/releases/download/v1.5.2/Clypra_1.5.2_aarch64.app.tar.gz.sig) | 404 B | `other` |
+| [Clypra_1.5.2_aarch64.dmg](https://github.com/AIEraDev/Clypra/releases/download/v1.5.2/Clypra_1.5.2_aarch64.dmg) | 75.2 MiB | `other` |
+| [Clypra_1.5.2_amd64.AppImage](https://github.com/AIEraDev/Clypra/releases/download/v1.5.2/Clypra_1.5.2_amd64.AppImage) | 165.8 MiB | `other` |
+| [Clypra_1.5.2_amd64.AppImage.sig](https://github.com/AIEraDev/Clypra/releases/download/v1.5.2/Clypra_1.5.2_amd64.AppImage.sig) | 416 B | `other` |
+| [Clypra_1.5.2_amd64.deb](https://github.com/AIEraDev/Clypra/releases/download/v1.5.2/Clypra_1.5.2_amd64.deb) | 100.2 MiB | `runtime/deb/amd64` |
+| [Clypra_1.5.2_amd64.deb.sig](https://github.com/AIEraDev/Clypra/releases/download/v1.5.2/Clypra_1.5.2_amd64.deb.sig) | 412 B | `other` |
+| [Clypra_1.5.2_x64-setup.exe](https://github.com/AIEraDev/Clypra/releases/download/v1.5.2/Clypra_1.5.2_x64-setup.exe) | 72.5 MiB | `other` |
+| [Clypra_1.5.2_x64-setup.exe.sig](https://github.com/AIEraDev/Clypra/releases/download/v1.5.2/Clypra_1.5.2_x64-setup.exe.sig) | 416 B | `other` |
+| [Clypra_1.5.2_x64_en-US.msi](https://github.com/AIEraDev/Clypra/releases/download/v1.5.2/Clypra_1.5.2_x64_en-US.msi) | 104.7 MiB | `other` |
+| [Clypra_1.5.2_x64_en-US.msi.sig](https://github.com/AIEraDev/Clypra/releases/download/v1.5.2/Clypra_1.5.2_x64_en-US.msi.sig) | 416 B | `other` |
+| [latest.json](https://github.com/AIEraDev/Clypra/releases/download/v1.5.2/latest.json) | 5.2 KiB | `other` |
+| [updater.json](https://github.com/AIEraDev/Clypra/releases/download/v1.5.2/updater.json) | 5.2 KiB | `other` |
 
 ## Improve this data
 
@@ -77,4 +84,4 @@ Install metadata for Clypra lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T06:32:06Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T06:24:12Z._
