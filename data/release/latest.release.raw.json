@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 105721526,
       "digest": "sha256:82e0dbb0d4c16566a801ff87e48e24829544648ee02d432a41ed5114e61455fb",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-23T01:01:05Z",
       "updated_at": "2026-09-23T01:01:09Z",
       "browser_download_url": "https://github.com/AIEraDev/Clypra/releases/download/v1.5.3/Clypra-1.5.3-1.x86_64.rpm"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 416,
       "digest": "sha256:7da7264b0ace59f9c507974dcb56e42c61559f1a3cbcdaac9ae6bc56b15f71d0",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-23T01:01:09Z",
       "updated_at": "2026-09-23T01:01:09Z",
       "browser_download_url": "https://github.com/AIEraDev/Clypra/releases/download/v1.5.3/Clypra-1.5.3-1.x86_64.rpm.sig"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 81828040,
       "digest": "sha256:6896f1ef0307453294606f39e53bbb5d291cd3a5ce20f4ad5d06a8f19254e8a0",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-09-23T00:43:27Z",
       "updated_at": "2026-09-23T00:43:31Z",
       "browser_download_url": "https://github.com/AIEraDev/Clypra/releases/download/v1.5.3/Clypra_1.5.3_aarch64.app.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 79540203,
       "digest": "sha256:7015a57f20cc4cf426f544eb7e67584f72c62bba8ec19df5294f5829c5b1621d",
-      "download_count": 8,
+      "download_count": 14,
       "created_at": "2026-09-23T00:43:23Z",
       "updated_at": "2026-09-23T00:43:26Z",
       "browser_download_url": "https://github.com/AIEraDev/Clypra/releases/download/v1.5.3/Clypra_1.5.3_aarch64.dmg"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 174303736,
       "digest": "sha256:198766f56de8abf4655ef73b6045ae69fd65dfcba05b2d180bbdf1a85eb20367",
-      "download_count": 6,
+      "download_count": 9,
       "created_at": "2026-09-23T01:01:10Z",
       "updated_at": "2026-09-23T01:01:14Z",
       "browser_download_url": "https://github.com/AIEraDev/Clypra/releases/download/v1.5.3/Clypra_1.5.3_amd64.AppImage"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 105730890,
       "digest": "sha256:189e81397b0d7706c6ef120bbeff0eefaf4d41a38b2683f4816ce2494d3e593f",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-09-23T01:01:01Z",
       "updated_at": "2026-09-23T01:01:04Z",
       "browser_download_url": "https://github.com/AIEraDev/Clypra/releases/download/v1.5.3/Clypra_1.5.3_amd64.deb"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 76330489,
       "digest": "sha256:aa454a421f2361d22e8014c61621c732419bfdd7cec4eb299800a61d54b49a95",
-      "download_count": 28,
+      "download_count": 52,
       "created_at": "2026-09-23T01:22:50Z",
       "updated_at": "2026-09-23T01:22:52Z",
       "browser_download_url": "https://github.com/AIEraDev/Clypra/releases/download/v1.5.3/Clypra_1.5.3_x64-setup.exe"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 110297088,
       "digest": "sha256:2534d2a5a5b524dce82c98804a8f73d29f5eec9273efdc23afdd2ea0f2449586",
-      "download_count": 16,
+      "download_count": 21,
       "created_at": "2026-09-23T01:22:46Z",
       "updated_at": "2026-09-23T01:22:49Z",
       "browser_download_url": "https://github.com/AIEraDev/Clypra/releases/download/v1.5.3/Clypra_1.5.3_x64_en-US.msi"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 5337,
       "digest": "sha256:0ade8d4b0ba3be0cc18975b9f2a99c3b7234aa71d84e2291b41bb35c4a8e6d80",
-      "download_count": 43,
+      "download_count": 105,
       "created_at": "2026-09-23T01:25:10Z",
       "updated_at": "2026-09-23T01:25:10Z",
       "browser_download_url": "https://github.com/AIEraDev/Clypra/releases/download/v1.5.3/latest.json"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 5337,
       "digest": "sha256:0ade8d4b0ba3be0cc18975b9f2a99c3b7234aa71d84e2291b41bb35c4a8e6d80",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-23T01:25:10Z",
       "updated_at": "2026-09-23T01:25:10Z",
       "browser_download_url": "https://github.com/AIEraDev/Clypra/releases/download/v1.5.3/updater.json"
