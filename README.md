@@ -14,13 +14,13 @@ x install Clypra
 
 ## Code insight
 
-Total: **279,972** lines of code across **1160** files in the top 5 languages.
+Total: **281,261** lines of code across **1161** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 135,188 | 17,841 | 19,802 | 769 |
-| Rust | 69,850 | 3,269 | 7,879 | 186 |
-| Tsx | 52,255 | 2,549 | 5,106 | 190 |
+| TypeScript | 135,331 | 17,857 | 19,811 | 770 |
+| Rust | 70,350 | 3,264 | 7,916 | 186 |
+| Tsx | 52,319 | 2,554 | 5,115 | 190 |
 | Json | 11,255 | 0 | 4 | 13 |
 | Yaml | 6,090 | 0 | 1,507 | 2 |
 
@@ -33,27 +33,27 @@ Total: **279,972** lines of code across **1160** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.5.9` (2026-10-04)
-- **Last commit**: 2026-10-06
+- **Last commit**: 2026-10-07
 - **Assets in release**: 24
 
 ## Popularity
 
-- **Stars**: 3,307 · **Forks**: 331 · **Open issues**: 49 · **Contributors**: 7
+- **Stars**: 3,311 · **Forks**: 332 · **Open issues**: 49 · **Contributors**: 7
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 433 · **Open PRs**: 5 · **Closed issues**: 32 · **Open issues**: 17 · **Commits**: 3538
+- **Releases**: 27 · **Merged PRs**: 434 · **Open PRs**: 5 · **Closed issues**: 32 · **Open issues**: 17 · **Commits**: 3549
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 11 | 205 | 1 | 1 | 1 | 253 |
-| last60d | 2026-08-08 | 20 | 285 | 2 | 1 | 3 | 1966 |
-| 90d | 2026-07-09 | 26 | 343 | 3 | 3 | 5 | 2217 |
-| last180d | 2026-04-10 | 27 | 433 | 5 | 32 | 17 | 3097 |
-| 360d | 2025-10-12 | 27 | 433 | 5 | 32 | 17 | 3097 |
-| last720d | 2024-10-17 | 27 | 433 | 5 | 32 | 17 | 3538 |
+| 30d | 2026-09-08 | 11 | 205 | 1 | 1 | 1 | 263 |
+| last60d | 2026-08-09 | 20 | 285 | 2 | 1 | 3 | 1976 |
+| 90d | 2026-07-10 | 26 | 342 | 3 | 3 | 5 | 2227 |
+| last180d | 2026-04-11 | 27 | 434 | 5 | 32 | 17 | 3107 |
+| 360d | 2025-10-13 | 27 | 434 | 5 | 32 | 17 | 3107 |
+| last720d | 2024-10-18 | 27 | 434 | 5 | 32 | 17 | 3549 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for Clypra lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T07:08:21Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T07:24:03Z._
