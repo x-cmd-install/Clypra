@@ -38,7 +38,7 @@ Total: **326,577** lines of code across **1455** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,330 · **Forks**: 335 · **Open issues**: 50 · **Contributors**: 7
+- **Stars**: 3,333 · **Forks**: 335 · **Open issues**: 50 · **Contributors**: 7
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **326,577** lines of code across **1455** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 9 | 178 | 1 | 0 | 2 | 295 |
-| last60d | 2026-08-22 | 20 | 276 | 2 | 1 | 2 | 1448 |
-| 90d | 2026-07-23 | 23 | 352 | 2 | 2 | 6 | 2302 |
-| last180d | 2026-04-24 | 28 | 474 | 5 | 32 | 18 | 3230 |
-| 360d | 2025-10-26 | 28 | 474 | 5 | 32 | 18 | 3258 |
-| last720d | 2024-10-31 | 28 | 474 | 5 | 32 | 18 | 3746 |
+| 30d | 2026-09-22 | 8 | 166 | 1 | 0 | 2 | 295 |
+| last60d | 2026-08-23 | 20 | 271 | 2 | 1 | 2 | 1448 |
+| 90d | 2026-07-24 | 23 | 352 | 2 | 2 | 4 | 2302 |
+| last180d | 2026-04-25 | 28 | 474 | 5 | 32 | 18 | 3230 |
+| 360d | 2025-10-27 | 28 | 474 | 5 | 32 | 18 | 3258 |
+| last720d | 2024-11-01 | 28 | 474 | 5 | 32 | 18 | 3746 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for Clypra lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:51:19Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:57:59Z._
