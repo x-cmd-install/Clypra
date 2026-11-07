@@ -14,13 +14,13 @@ x install Clypra
 
 ## Code insight
 
-Total: **350,146** lines of code across **1525** files in the top 5 languages.
+Total: **350,053** lines of code across **1525** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | TypeScript | 169,130 | 21,598 | 23,281 | 879 |
 | Rust | 77,602 | 3,712 | 8,750 | 317 |
-| Tsx | 67,871 | 3,966 | 6,596 | 242 |
+| Tsx | 67,778 | 3,966 | 6,588 | 242 |
 | Json | 15,090 | 0 | 4 | 43 |
 | JavaScript | 9,094 | 764 | 1,075 | 44 |
 
@@ -38,22 +38,22 @@ Total: **350,146** lines of code across **1525** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,350 · **Forks**: 341 · **Open issues**: 51 · **Contributors**: 7
+- **Stars**: 3,352 · **Forks**: 341 · **Open issues**: 51 · **Contributors**: 7
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 479 · **Open PRs**: 5 · **Closed issues**: 32 · **Open issues**: 19 · **Commits**: 3893
+- **Releases**: 28 · **Merged PRs**: 479 · **Open PRs**: 5 · **Closed issues**: 32 · **Open issues**: 19 · **Commits**: 3894
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 1 | 45 | 0 | 0 | 2 | 291 |
-| last60d | 2026-09-07 | 12 | 251 | 1 | 1 | 3 | 579 |
-| 90d | 2026-08-08 | 21 | 331 | 2 | 1 | 5 | 2283 |
-| last180d | 2026-05-10 | 28 | 477 | 5 | 31 | 18 | 3266 |
-| 360d | 2025-11-11 | 28 | 479 | 5 | 32 | 19 | 3400 |
-| last720d | 2024-11-16 | 28 | 479 | 5 | 32 | 19 | 3893 |
+| 30d | 2026-10-08 | 1 | 43 | 0 | 0 | 2 | 292 |
+| last60d | 2026-09-08 | 12 | 250 | 1 | 1 | 3 | 580 |
+| 90d | 2026-08-09 | 21 | 330 | 2 | 1 | 5 | 2284 |
+| last180d | 2026-05-11 | 28 | 477 | 5 | 3 | 18 | 3267 |
+| 360d | 2025-11-12 | 28 | 479 | 5 | 32 | 19 | 3401 |
+| last720d | 2024-11-17 | 28 | 479 | 5 | 32 | 19 | 3894 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for Clypra lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T08:07:17Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T07:06:23Z._
