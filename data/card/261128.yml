@@ -1,0 +1,226 @@
+about:
+  description: "A hardware-accelerated video editor built on Rust, Tauri v2, and React 19. Sub-10ms frame decoding, GPU-native rendering, and a frame-accurate timeline — all free and open source under MIT."
+  license: MIT
+  homepage: https://clypra.abdulkabirmusa.com
+  head: ab52455
+  archived: false
+  latestVersion: "v1.6.9"
+  latestRelease: "v1.6.9"
+  latestPrerelease: "w1a-volunteer-v1"
+  collectedAt: 2026-11-28T09:38:04Z
+timeline:
+  created: 2026-04-26
+  lastCommit: 2026-11-28
+  lastVersion: 2026-11-28
+  lastRelease: 2026-11-28
+  lastPrerelease: 2026-11-27
+popularity:
+  star: 3389
+  watcher: 10
+  fork: 346
+  release: 36
+  contributor: 7
+  pullRequest: 513
+  issue: 58
+language:
+  TypeScript: 10858071
+  Rust: 4321299
+  JavaScript: 631655
+  WGSL: 80790
+  Shell: 53304
+  CSS: 47713
+  Python: 31105
+  PowerShell: 22912
+  HTML: 6624
+  C: 5075
+  Swift: 4116
+  Java: 1294
+totalBytes: 16063958
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 8
+    mergedPR: 23
+    openPR: 0
+    closedIssue: 6
+    openIssue: 1
+    commit: 302
+  last60d:
+    since: 2026-09-29
+    release: 13
+    mergedPR: 120
+    openPR: 1
+    closedIssue: 6
+    openIssue: 3
+    commit: 619
+  last90d:
+    since: 2026-08-30
+    release: 22
+    mergedPR: 283
+    openPR: 2
+    closedIssue: 7
+    openIssue: 4
+    commit: 1320
+  last180d:
+    since: 2026-06-01
+    release: 35
+    mergedPR: 475
+    openPR: 5
+    closedIssue: 9
+    openIssue: 19
+    commit: 3364
+  last360d:
+    since: 2025-12-03
+    release: 36
+    mergedPR: 498
+    openPR: 5
+    closedIssue: 38
+    openIssue: 20
+    commit: 3641
+  last720d:
+    since: 2024-12-08
+    release: 36
+    mergedPR: 498
+    openPR: 5
+    closedIssue: 38
+    openIssue: 20
+    commit: 4152
+total:
+  release: 36
+  mergedPR: 498
+  openPR: 5
+  closedIssue: 38
+  openIssue: 20
+  commit: 4152
+---
+path: /home/runner/.x-repo/github.com/AIEraDev/Clypra
+collectedAt: 2026-11-28T09:38:10Z
+loc:
+  TypeScript:
+    code: 188720
+    comments: 23955
+    blanks: 25730
+    files: 986
+  Rust:
+    code: 97958
+    comments: 4400
+    blanks: 10650
+    files: 346
+  Tsx:
+    code: 73226
+    comments: 3997
+    blanks: 6902
+    files: 276
+  Json:
+    code: 20973
+    comments: 0
+    blanks: 4
+    files: 64
+  JavaScript:
+    code: 14911
+    comments: 1017
+    blanks: 1502
+    files: 70
+  Yaml:
+    code: 6167
+    comments: 0
+    blanks: 1521
+    files: 2
+  WGSL:
+    code: 1377
+    comments: 259
+    blanks: 210
+    files: 9
+  Css:
+    code: 1229
+    comments: 91
+    blanks: 113
+    files: 2
+  Sh:
+    code: 961
+    comments: 244
+    blanks: 169
+    files: 16
+  Python:
+    code: 568
+    comments: 60
+    blanks: 104
+    files: 4
+  PowerShell:
+    code: 474
+    comments: 41
+    blanks: 97
+    files: 4
+  CHeader:
+    code: 379
+    comments: 51
+    blanks: 62
+    files: 7
+  Xml:
+    code: 339
+    comments: 4
+    blanks: 18
+    files: 13
+  Toml:
+    code: 304
+    comments: 69
+    blanks: 42
+    files: 7
+  C:
+    code: 87
+    comments: 39
+    blanks: 17
+    files: 1
+  Batch:
+    code: 73
+    comments: 0
+    blanks: 21
+    files: 1
+  Swift:
+    code: 52
+    comments: 15
+    blanks: 12
+    files: 3
+  Html:
+    code: 29
+    comments: 14
+    blanks: 6
+    files: 1
+  Java:
+    code: 27
+    comments: 11
+    blanks: 11
+    files: 3
+  Prolog:
+    code: 18
+    comments: 0
+    blanks: 3
+    files: 1
+  Svg:
+    code: 15
+    comments: 3
+    blanks: 0
+    files: 2
+  XcodeConfig:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 13377
+    blanks: 3773
+    files: 120
+  Text:
+    code: 0
+    comments: 8
+    blanks: 0
+    files: 1
+total:
+  code: 408812
+  comments: 53479
+  blanks: 51690
+  files: 1940
+---
+
+---

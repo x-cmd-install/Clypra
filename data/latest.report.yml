@@ -2,30 +2,30 @@ about:
   description: "A hardware-accelerated video editor built on Rust, Tauri v2, and React 19. Sub-10ms frame decoding, GPU-native rendering, and a frame-accurate timeline — all free and open source under MIT."
   license: MIT
   homepage: https://clypra.abdulkabirmusa.com
-  head: 3a1a05c
+  head: ab52455
   archived: false
-  latestVersion: "v1.6.6"
-  latestRelease: "v1.6.6"
-  latestPrerelease: ""
-  collectedAt: 2026-11-27T10:27:46Z
+  latestVersion: "v1.6.9"
+  latestRelease: "v1.6.9"
+  latestPrerelease: "w1a-volunteer-v1"
+  collectedAt: 2026-11-28T09:38:04Z
 timeline:
   created: 2026-04-26
-  lastCommit: 2026-11-27
-  lastVersion: 2026-11-17
-  lastRelease: 2026-11-17
-  lastPrerelease: 
+  lastCommit: 2026-11-28
+  lastVersion: 2026-11-28
+  lastRelease: 2026-11-28
+  lastPrerelease: 2026-11-27
 popularity:
-  star: 3386
+  star: 3389
   watcher: 10
   fork: 346
-  release: 33
+  release: 36
   contributor: 7
-  pullRequest: 510
+  pullRequest: 513
   issue: 58
 language:
-  TypeScript: 10739580
-  Rust: 4264319
-  JavaScript: 590350
+  TypeScript: 10858071
+  Rust: 4321299
+  JavaScript: 631655
   WGSL: 80790
   Shell: 53304
   CSS: 47713
@@ -35,92 +35,92 @@ language:
   C: 5075
   Swift: 4116
   Java: 1294
-totalBytes: 15847182
+totalBytes: 16063958
 recent:
   last30d:
-    since: 2026-10-28
-    release: 5
-    mergedPR: 20
+    since: 2026-10-29
+    release: 8
+    mergedPR: 23
     openPR: 0
     closedIssue: 6
     openIssue: 1
-    commit: 252
+    commit: 302
   last60d:
-    since: 2026-09-28
-    release: 11
-    mergedPR: 129
+    since: 2026-09-29
+    release: 13
+    mergedPR: 120
     openPR: 1
     closedIssue: 6
     openIssue: 3
-    commit: 569
+    commit: 619
   last90d:
-    since: 2026-08-29
-    release: 19
-    mergedPR: 280
+    since: 2026-08-30
+    release: 22
+    mergedPR: 283
     openPR: 2
     closedIssue: 7
     openIssue: 4
-    commit: 1270
+    commit: 1320
   last180d:
-    since: 2026-05-31
-    release: 32
-    mergedPR: 472
+    since: 2026-06-01
+    release: 35
+    mergedPR: 475
     openPR: 5
     closedIssue: 9
     openIssue: 19
-    commit: 3314
+    commit: 3364
   last360d:
-    since: 2025-12-02
-    release: 33
-    mergedPR: 495
+    since: 2025-12-03
+    release: 36
+    mergedPR: 498
     openPR: 5
     closedIssue: 38
     openIssue: 20
-    commit: 3591
+    commit: 3641
   last720d:
-    since: 2024-12-07
-    release: 33
-    mergedPR: 495
+    since: 2024-12-08
+    release: 36
+    mergedPR: 498
     openPR: 5
     closedIssue: 38
     openIssue: 20
-    commit: 4098
+    commit: 4152
 total:
-  release: 33
-  mergedPR: 495
+  release: 36
+  mergedPR: 498
   openPR: 5
   closedIssue: 38
   openIssue: 20
-  commit: 4098
+  commit: 4152
 ---
 path: /home/runner/.x-repo/github.com/AIEraDev/Clypra
-collectedAt: 2026-11-27T10:27:55Z
+collectedAt: 2026-11-28T09:38:10Z
 loc:
   TypeScript:
-    code: 186393
-    comments: 23903
-    blanks: 25545
-    files: 970
+    code: 188720
+    comments: 23955
+    blanks: 25730
+    files: 986
   Rust:
-    code: 95564
-    comments: 4228
-    blanks: 10397
-    files: 337
+    code: 97958
+    comments: 4400
+    blanks: 10650
+    files: 346
   Tsx:
-    code: 72227
-    comments: 3982
-    blanks: 6795
-    files: 269
+    code: 73226
+    comments: 3997
+    blanks: 6902
+    files: 276
   Json:
-    code: 20628
+    code: 20973
     comments: 0
     blanks: 4
     files: 64
   JavaScript:
-    code: 13978
-    comments: 935
-    blanks: 1450
-    files: 64
+    code: 14911
+    comments: 1017
+    blanks: 1502
+    files: 70
   Yaml:
     code: 6167
     comments: 0
@@ -151,16 +151,21 @@ loc:
     comments: 41
     blanks: 97
     files: 4
+  CHeader:
+    code: 379
+    comments: 51
+    blanks: 62
+    files: 7
   Xml:
     code: 339
     comments: 4
     blanks: 18
     files: 13
   Toml:
-    code: 178
-    comments: 56
-    blanks: 32
-    files: 6
+    code: 304
+    comments: 69
+    blanks: 42
+    files: 7
   C:
     code: 87
     comments: 39
@@ -192,10 +197,10 @@ loc:
     blanks: 3
     files: 1
   Svg:
-    code: 10
-    comments: 0
+    code: 15
+    comments: 3
     blanks: 0
-    files: 1
+    files: 2
   XcodeConfig:
     code: 1
     comments: 0
@@ -203,20 +208,20 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 13268
-    blanks: 3742
-    files: 119
+    comments: 13377
+    blanks: 3773
+    files: 120
   Text:
     code: 0
     comments: 8
     blanks: 0
     files: 1
 total:
-  code: 401305
-  comments: 52969
-  blanks: 50990
-  files: 1892
+  code: 408812
+  comments: 53479
+  blanks: 51690
+  files: 1940
 ---
 
 ---
-{"id":447801621,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOSNE5Gs4asOkV","tag_name":"v1.6.6","target_commitish":"a624d5d21f17b6f9313e6b2a0a948c2146a3f380","name":"Clypra v1.6.6","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-16T23:57:01Z","updated_at":"2026-11-17T00:43:29Z","published_at":"2026-11-17T00:10:18Z","assets":[{"id":757011108,"node_id":"RA_kwDOSNE5Gs4tHxKk","name":"Clypra-1.6.6-1.aarch64.rpm","label":"Clypra-1.6.6-1.aarch64.rpm","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":102790267,"digest":"sha256:f3aeaca9193f66bcfa9d7a8c208b015e6946a2d75a37c78476b1632cc3645d6b","download_count":18,"created_at":"2026-11-17T00:30:31Z","updated_at":"2026-11-17T00:30:34Z"},{"id":757011221,"node_id":"RA_kwDOSNE5Gs4tHxMV","name":"Clypra-1.6.6-1.aarch64.rpm.sig","label":"Clypra-1.6.6-1.aarch64.rpm.sig","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":416,"digest":"sha256:7e574418bdaac9eaccdd3c4775b3140a80fde180d1d07035fab8708f997cd57e","download_count":3,"created_at":"2026-11-17T00:30:35Z","updated_at":"2026-11-17T00:30:35Z"},{"id":757035355,"node_id":"RA_kwDOSNE5Gs4tH3Fb","name":"Clypra-1.6.6-1.x86_64.rpm","label":"Clypra-1.6.6-1.x86_64.rpm","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":106406235,"digest":"sha256:4fec963029d0ae0d2675884bea28090563bfab160d40431cc196da8f197a52da","download_count":13,"created_at":"2026-11-17T00:40:19Z","updated_at":"2026-11-17T00:40:23Z"},{"id":757035534,"node_id":"RA_kwDOSNE5Gs4tH3IO","name":"Clypra-1.6.6-1.x86_64.rpm.sig","label":"Clypra-1.6.6-1.x86_64.rpm.sig","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":416,"digest":"sha256:2c3c920052ee1c97e75749ad45b57b0555b8be3eec53ca10d16061959738bbf3","download_count":3,"created_at":"2026-11-17T00:40:23Z","updated_at":"2026-11-17T00:40:24Z"},{"id":756961414,"node_id":"RA_kwDOSNE5Gs4tHlCG","name":"Clypra_1.6.6_aarch64.app.tar.gz","label":"Clypra_1.6.6_aarch64.app.tar.gz","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":82463854,"digest":"sha256:73a4dd13e2e70c8ab09e206a29bf4c0e198539ed7015c73910164e2738a172a5","download_count":11,"created_at":"2026-11-17T00:10:24Z","updated_at":"2026-11-17T00:10:29Z"},{"id":756961616,"node_id":"RA_kwDOSNE5Gs4tHlFQ","name":"Clypra_1.6.6_aarch64.app.tar.gz.sig","label":"Clypra_1.6.6_aarch64.app.tar.gz.sig","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":404,"digest":"sha256:baeb29816f75d450030090df3cf5ffed308fea30b6eb2d104ce879ad0c5d2f8a","download_count":2,"created_at":"2026-11-17T00:10:29Z","updated_at":"2026-11-17T00:10:29Z"},{"id":757011231,"node_id":"RA_kwDOSNE5Gs4tHxMf","name":"Clypra_1.6.6_aarch64.AppImage","label":"Clypra_1.6.6_aarch64.AppImage","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":166623752,"digest":"sha256:5026a5fe880303b09e75d7ec02fc2fa41a1e1af29a4e110a54472d5caed4cf78","download_count":5,"created_at":"2026-11-17T00:30:35Z","updated_at":"2026-11-17T00:30:43Z"},{"id":757011541,"node_id":"RA_kwDOSNE5Gs4tHxRV","name":"Clypra_1.6.6_aarch64.AppImage.sig","label":"Clypra_1.6.6_aarch64.AppImage.sig","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":420,"digest":"sha256:02e3f61f84786f96a0fc966c67686b41da2909b52e20cedcc08269dc7d74bc43","download_count":3,"created_at":"2026-11-17T00:30:44Z","updated_at":"2026-11-17T00:30:44Z"},{"id":756961219,"node_id":"RA_kwDOSNE5Gs4tHk_D","name":"Clypra_1.6.6_aarch64.dmg","label":"Clypra_1.6.6_aarch64.dmg","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":80122157,"digest":"sha256:c02d38399ab5e55e2077438db47745346aed134b7a9707c0c9a9e2016933277a","download_count":29,"created_at":"2026-11-17T00:10:19Z","updated_at":"2026-11-17T00:10:24Z"},{"id":757035553,"node_id":"RA_kwDOSNE5Gs4tH3Ih","name":"Clypra_1.6.6_amd64.AppImage","label":"Clypra_1.6.6_amd64.AppImage","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":174926328,"digest":"sha256:de9d3a7918b2a4b0152ca500e9c57498dd9ed551af643f3c569bc8ef3503a670","download_count":48,"created_at":"2026-11-17T00:40:24Z","updated_at":"2026-11-17T00:40:29Z"},{"id":757035736,"node_id":"RA_kwDOSNE5Gs4tH3LY","name":"Clypra_1.6.6_amd64.AppImage.sig","label":"Clypra_1.6.6_amd64.AppImage.sig","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":416,"digest":"sha256:37275020356378c8de91271e79b621dd304afc566f5a76962db956216fa05e24","download_count":3,"created_at":"2026-11-17T00:40:29Z","updated_at":"2026-11-17T00:40:29Z"},{"id":757035152,"node_id":"RA_kwDOSNE5Gs4tH3CQ","name":"Clypra_1.6.6_amd64.deb","label":"Clypra_1.6.6_amd64.deb","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":106413292,"digest":"sha256:34bdfddfa4d166cfdd5a9dc8b5623c23cccaf9e74bcddc4448cc5962db9b38b0","download_count":7,"created_at":"2026-11-17T00:40:14Z","updated_at":"2026-11-17T00:40:18Z"},{"id":757035331,"node_id":"RA_kwDOSNE5Gs4tH3FD","name":"Clypra_1.6.6_amd64.deb.sig","label":"Clypra_1.6.6_amd64.deb.sig","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":412,"digest":"sha256:2943c2c0db3dbd4f6a33679de52e8a00984b934202beae444d5966deb4ec41dc","download_count":2,"created_at":"2026-11-17T00:40:19Z","updated_at":"2026-11-17T00:40:19Z"},{"id":757010975,"node_id":"RA_kwDOSNE5Gs4tHxIf","name":"Clypra_1.6.6_arm64.deb","label":"Clypra_1.6.6_arm64.deb","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":102787192,"digest":"sha256:fddb77ebc81ee34e7108eda02fb9f70fcb4d9f93b8262e4f22464f0b99febc4b","download_count":3,"created_at":"2026-11-17T00:30:27Z","updated_at":"2026-11-17T00:30:30Z"},{"id":757011079,"node_id":"RA_kwDOSNE5Gs4tHxKH","name":"Clypra_1.6.6_arm64.deb.sig","label":"Clypra_1.6.6_arm64.deb.sig","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":412,"digest":"sha256:00dc727fc9715bea146601d2a164bc7a8809cf5efb358d68592c9fd98f3fd429","download_count":1,"created_at":"2026-11-17T00:30:30Z","updated_at":"2026-11-17T00:30:30Z"},{"id":757001992,"node_id":"RA_kwDOSNE5Gs4tHu8I","name":"Clypra_1.6.6_x64-setup.exe","label":"Clypra_1.6.6_x64-setup.exe","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":72109084,"digest":"sha256:2de16b4fcf30ca3e7f21977e9081fe3eae8aad31053ca3e996de63fa576037f1","download_count":198,"created_at":"2026-11-17T00:26:40Z","updated_at":"2026-11-17T00:26:43Z"},{"id":757002070,"node_id":"RA_kwDOSNE5Gs4tHu9W","name":"Clypra_1.6.6_x64-setup.exe.sig","label":"Clypra_1.6.6_x64-setup.exe.sig","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":416,"digest":"sha256:8e7fe7ddfaea25b78b95cc72d4c9137f54006fe1205936e0d86a74a643c62116","download_count":5,"created_at":"2026-11-17T00:26:43Z","updated_at":"2026-11-17T00:26:43Z"},{"id":757036283,"node_id":"RA_kwDOSNE5Gs4tH3T7","name":"Clypra_1.6.6_x64.app.tar.gz","label":"Clypra_1.6.6_x64.app.tar.gz","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":89776914,"digest":"sha256:10fa0c48cf0eefbfa012fcf7b9d41e582baf6bba8c23584397f9b6974d74e964","download_count":24,"created_at":"2026-11-17T00:40:45Z","updated_at":"2026-11-17T00:40:50Z"},{"id":757036486,"node_id":"RA_kwDOSNE5Gs4tH3XG","name":"Clypra_1.6.6_x64.app.tar.gz.sig","label":"Clypra_1.6.6_x64.app.tar.gz.sig","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":404,"digest":"sha256:e981fe59e498e6b89b26342740f277540c45a2dda24c1360f715b2a84e6ffa8e","download_count":1,"created_at":"2026-11-17T00:40:50Z","updated_at":"2026-11-17T00:40:50Z"},{"id":757036146,"node_id":"RA_kwDOSNE5Gs4tH3Ry","name":"Clypra_1.6.6_x64.dmg","label":"Clypra_1.6.6_x64.dmg","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":88641443,"digest":"sha256:78fa890dac2d038312fa29df01cf73719d05777b16914f560647722e5abe6813","download_count":12,"created_at":"2026-11-17T00:40:40Z","updated_at":"2026-11-17T00:40:44Z"},{"id":757001855,"node_id":"RA_kwDOSNE5Gs4tHu5_","name":"Clypra_1.6.6_x64_en-US.msi","label":"Clypra_1.6.6_x64_en-US.msi","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":94801920,"digest":"sha256:bb54cf20225f78ae9d8f463f342e9127bdb429f8b5b1fd3ad752e90cda6f2224","download_count":39,"created_at":"2026-11-17T00:26:36Z","updated_at":"2026-11-17T00:26:39Z"},{"id":757001981,"node_id":"RA_kwDOSNE5Gs4tHu79","name":"Clypra_1.6.6_x64_en-US.msi.sig","label":"Clypra_1.6.6_x64_en-US.msi.sig","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":416,"digest":"sha256:3e0f64f730e30225afb70b7f637239c49693dc4a50158e79aeb79b4919430339","download_count":3,"created_at":"2026-11-17T00:26:40Z","updated_at":"2026-11-17T00:26:40Z"},{"id":757042786,"node_id":"RA_kwDOSNE5Gs4tH45i","name":"latest.json","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/json","state":"uploaded","size":8787,"digest":"sha256:e05bab00c45db8fd3d0e5f7d9177a36de5eab2455661f2981fa8b4e38ba1addf","download_count":578,"created_at":"2026-11-17T00:43:29Z","updated_at":"2026-11-17T00:43:29Z"},{"id":757042772,"node_id":"RA_kwDOSNE5Gs4tH45U","name":"updater.json","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/json","state":"uploaded","size":8787,"digest":"sha256:e05bab00c45db8fd3d0e5f7d9177a36de5eab2455661f2981fa8b4e38ba1addf","download_count":9,"created_at":"2026-11-17T00:43:29Z","updated_at":"2026-11-17T00:43:29Z"}],"body":"Automated multi-platform release bundle — macOS (arm64, x64), Windows (x64, arm64), Linux (x64, arm64).","reactions":{"total_count":1,"+1":1,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":0,"eyes":0}}
+{"id":461417503,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOSNE5Gs4bgKwf","tag_name":"v1.6.9","target_commitish":"ab5245522363904736156f76c0292379b2f88b36","name":"Clypra v1.6.9","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-28T08:18:35Z","updated_at":"2026-11-28T09:03:06Z","published_at":"2026-11-28T08:41:11Z","assets":[{"id":803903236,"node_id":"RA_kwDOSNE5Gs4v6pcE","name":"Clypra-1.6.9-1.aarch64.rpm","label":"Clypra-1.6.9-1.aarch64.rpm","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":103248778,"digest":"sha256:25326654ac383d323670a659ec17e7f7096fde510c29035bdb16b9ff3324c57f","download_count":0,"created_at":"2026-11-28T08:52:55Z","updated_at":"2026-11-28T08:52:58Z"},{"id":803903385,"node_id":"RA_kwDOSNE5Gs4v6peZ","name":"Clypra-1.6.9-1.aarch64.rpm.sig","label":"Clypra-1.6.9-1.aarch64.rpm.sig","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":416,"digest":"sha256:416cda2299a67e3405463695e50c62999f57f32b2ea8fedad9d6472f6296cb11","download_count":1,"created_at":"2026-11-28T08:52:58Z","updated_at":"2026-11-28T08:52:59Z"},{"id":803930029,"node_id":"RA_kwDOSNE5Gs4v6v-t","name":"Clypra-1.6.9-1.x86_64.rpm","label":"Clypra-1.6.9-1.x86_64.rpm","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":106832927,"digest":"sha256:507def52c2075a4e54a94ab29ed11b9bd1893dff346a473d42f1b6475897d5fb","download_count":0,"created_at":"2026-11-28T09:02:57Z","updated_at":"2026-11-28T09:02:59Z"},{"id":803930133,"node_id":"RA_kwDOSNE5Gs4v6wAV","name":"Clypra-1.6.9-1.x86_64.rpm.sig","label":"Clypra-1.6.9-1.x86_64.rpm.sig","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":416,"digest":"sha256:fdb36b115ba11723c3c97aec22915235076dc2b967300fd28dfad495daf07af5","download_count":0,"created_at":"2026-11-28T09:03:00Z","updated_at":"2026-11-28T09:03:00Z"},{"id":803872570,"node_id":"RA_kwDOSNE5Gs4v6h86","name":"Clypra_1.6.9_aarch64.app.tar.gz","label":"Clypra_1.6.9_aarch64.app.tar.gz","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":82997302,"digest":"sha256:a4f5baad5322d32d8b361e69c324e1db36d5a5a16676a91af46bd42bce880ed4","download_count":2,"created_at":"2026-11-28T08:41:32Z","updated_at":"2026-11-28T08:41:36Z"},{"id":803872772,"node_id":"RA_kwDOSNE5Gs4v6iAE","name":"Clypra_1.6.9_aarch64.app.tar.gz.sig","label":"Clypra_1.6.9_aarch64.app.tar.gz.sig","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":404,"digest":"sha256:978eda3440d8f7853683123fd2976197364865a3ecd466d3ee341f4af1f06e7f","download_count":1,"created_at":"2026-11-28T08:41:36Z","updated_at":"2026-11-28T08:41:36Z"},{"id":803903420,"node_id":"RA_kwDOSNE5Gs4v6pe8","name":"Clypra_1.6.9_aarch64.AppImage","label":"Clypra_1.6.9_aarch64.AppImage","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":167025160,"digest":"sha256:4bb9f733390f51e481f5627a3385fa1c39f859fce70561e248f68e49bc33f01c","download_count":1,"created_at":"2026-11-28T08:52:59Z","updated_at":"2026-11-28T08:53:04Z"},{"id":803903717,"node_id":"RA_kwDOSNE5Gs4v6pjl","name":"Clypra_1.6.9_aarch64.AppImage.sig","label":"Clypra_1.6.9_aarch64.AppImage.sig","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":420,"digest":"sha256:a8c77a421deafd89ed31f90978ab80fc7d2e9e73823a61c520d77ebf1ee7a578","download_count":1,"created_at":"2026-11-28T08:53:04Z","updated_at":"2026-11-28T08:53:05Z"},{"id":803872355,"node_id":"RA_kwDOSNE5Gs4v6h5j","name":"Clypra_1.6.9_aarch64.dmg","label":"Clypra_1.6.9_aarch64.dmg","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":80651484,"digest":"sha256:5f57492164332b0eb2a17ed0e92c3229fee5d45c44692d3528eda1a119b2d5e8","download_count":2,"created_at":"2026-11-28T08:41:28Z","updated_at":"2026-11-28T08:41:32Z"},{"id":803930151,"node_id":"RA_kwDOSNE5Gs4v6wAn","name":"Clypra_1.6.9_amd64.AppImage","label":"Clypra_1.6.9_amd64.AppImage","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":175335928,"digest":"sha256:2a4d8ebfbad50a21786b7ce7490bb17378ccf1faaa55e3fd919d15ee24b58a66","download_count":0,"created_at":"2026-11-28T09:03:00Z","updated_at":"2026-11-28T09:03:04Z"},{"id":803930264,"node_id":"RA_kwDOSNE5Gs4v6wCY","name":"Clypra_1.6.9_amd64.AppImage.sig","label":"Clypra_1.6.9_amd64.AppImage.sig","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":416,"digest":"sha256:0161d97b542f1538f8d39b640a615618123bff1e8a6fc25c32f8f852503a1f02","download_count":0,"created_at":"2026-11-28T09:03:05Z","updated_at":"2026-11-28T09:03:05Z"},{"id":803929885,"node_id":"RA_kwDOSNE5Gs4v6v8d","name":"Clypra_1.6.9_amd64.deb","label":"Clypra_1.6.9_amd64.deb","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":106848272,"digest":"sha256:9e583ca49220fdfd01ee24ca739b4bacee4a2d88c7c2fcd8e18e30266c71e78f","download_count":0,"created_at":"2026-11-28T09:02:52Z","updated_at":"2026-11-28T09:02:56Z"},{"id":803930014,"node_id":"RA_kwDOSNE5Gs4v6v-e","name":"Clypra_1.6.9_amd64.deb.sig","label":"Clypra_1.6.9_amd64.deb.sig","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":412,"digest":"sha256:b96895e1f0d9a1514f7b3ca0baeacf272e60bd4d71201869c71bf04478ee1d0f","download_count":0,"created_at":"2026-11-28T09:02:56Z","updated_at":"2026-11-28T09:02:56Z"},{"id":803903044,"node_id":"RA_kwDOSNE5Gs4v6pZE","name":"Clypra_1.6.9_arm64.deb","label":"Clypra_1.6.9_arm64.deb","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":103249402,"digest":"sha256:6b1c29f3270a52299582cd60534fea67e642e1d022d786da678eb0cf7df58530","download_count":0,"created_at":"2026-11-28T08:52:51Z","updated_at":"2026-11-28T08:52:54Z"},{"id":803903203,"node_id":"RA_kwDOSNE5Gs4v6pbj","name":"Clypra_1.6.9_arm64.deb.sig","label":"Clypra_1.6.9_arm64.deb.sig","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":412,"digest":"sha256:e7550a7924325d3969145f7cb1e7b90a611f5849f46fc3ebaac6291a164f56cd","download_count":0,"created_at":"2026-11-28T08:52:55Z","updated_at":"2026-11-28T08:52:55Z"},{"id":803871859,"node_id":"RA_kwDOSNE5Gs4v6hxz","name":"Clypra_1.6.9_x64-setup.exe","label":"Clypra_1.6.9_x64-setup.exe","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":72418358,"digest":"sha256:9131e23406a5f8bd7a54b5a1af61ad2214b43056ed930c0b1b667f6c1c449640","download_count":3,"created_at":"2026-11-28T08:41:16Z","updated_at":"2026-11-28T08:41:19Z"},{"id":803871990,"node_id":"RA_kwDOSNE5Gs4v6hz2","name":"Clypra_1.6.9_x64-setup.exe.sig","label":"Clypra_1.6.9_x64-setup.exe.sig","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":416,"digest":"sha256:9e30540958fd60689bc71e0464d0e0250efa20b429fe35ae0ed68f07756cbe57","download_count":1,"created_at":"2026-11-28T08:41:19Z","updated_at":"2026-11-28T08:41:19Z"},{"id":803925350,"node_id":"RA_kwDOSNE5Gs4v6u1m","name":"Clypra_1.6.9_x64.app.tar.gz","label":"Clypra_1.6.9_x64.app.tar.gz","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":90356593,"digest":"sha256:f5f1237a817c736fcf995272c02af9b1b7cdc25168c91ea8984d5d8a92d5135a","download_count":0,"created_at":"2026-11-28T09:01:09Z","updated_at":"2026-11-28T09:01:13Z"},{"id":803925536,"node_id":"RA_kwDOSNE5Gs4v6u4g","name":"Clypra_1.6.9_x64.app.tar.gz.sig","label":"Clypra_1.6.9_x64.app.tar.gz.sig","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":404,"digest":"sha256:1ea338f7229cf984a81c3c38db33736400d28d87fc9383685891c9e08aa1fc53","download_count":0,"created_at":"2026-11-28T09:01:13Z","updated_at":"2026-11-28T09:01:13Z"},{"id":803925147,"node_id":"RA_kwDOSNE5Gs4v6uyb","name":"Clypra_1.6.9_x64.dmg","label":"Clypra_1.6.9_x64.dmg","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":89162177,"digest":"sha256:d68e2af2a50fd2f8f9d569a5a12ab97eedb1ad90f600e0f8d77ed280290e6f2f","download_count":0,"created_at":"2026-11-28T09:01:04Z","updated_at":"2026-11-28T09:01:08Z"},{"id":803871645,"node_id":"RA_kwDOSNE5Gs4v6hud","name":"Clypra_1.6.9_x64_en-US.msi","label":"Clypra_1.6.9_x64_en-US.msi","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":95240192,"digest":"sha256:db1547700ef899e22fee197d531e810e16202cf429056945a7288e2dcbd73349","download_count":1,"created_at":"2026-11-28T08:41:12Z","updated_at":"2026-11-28T08:41:15Z"},{"id":803871840,"node_id":"RA_kwDOSNE5Gs4v6hxg","name":"Clypra_1.6.9_x64_en-US.msi.sig","label":"Clypra_1.6.9_x64_en-US.msi.sig","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":416,"digest":"sha256:4c3f709dcfda0aa4077770562bd7c15622de8800291e24883a7936e526961b1d","download_count":1,"created_at":"2026-11-28T08:41:16Z","updated_at":"2026-11-28T08:41:16Z"},{"id":803930299,"node_id":"RA_kwDOSNE5Gs4v6wC7","name":"latest.json","label":"latest.json","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":8560,"digest":"sha256:b2f3144ed55ab50f3c17a114450b5a4c725e054bc7a901752496d907753c8ca2","download_count":8,"created_at":"2026-11-28T09:03:06Z","updated_at":"2026-11-28T09:03:06Z"}],"body":"Automated multi-platform release bundle — macOS (arm64, x64), Windows (x64), Linux (x64), with Linux arm64 marked experimental."}
